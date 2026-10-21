@@ -1,0 +1,379 @@
+scenario,method,metric,mean,sd,replications
+cost_f0.75_r0.80,Fixed rule heuristic,MEL,14.0449039050892,1.9026204679353491,10
+cost_f0.75_r0.80,Fixed rule heuristic,regret,0.7956982300564233,0.25316280795124985,10
+cost_f0.75_r0.80,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f0.75_r0.80,Gradient boosting (uncalibrated),MEL,15.728443220761239,2.0732791041114718,10
+cost_f0.75_r0.80,Gradient boosting (uncalibrated),regret,2.47923754572846,0.5248537515504733,10
+cost_f0.75_r0.80,Gradient boosting (uncalibrated),urgent_rate,0.0,0.0,10
+cost_f0.75_r0.80,Gradient boosting + fixed thresholds,MEL,15.286065515372783,1.987672325922378,10
+cost_f0.75_r0.80,Gradient boosting + fixed thresholds,regret,2.036859840340005,0.4917357154374637,10
+cost_f0.75_r0.80,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f0.75_r0.80,Logistic + calibration,MEL,13.741663436054875,1.8692000368099737,10
+cost_f0.75_r0.80,Logistic + calibration,regret,0.49245776102209743,0.15570665023539193,10
+cost_f0.75_r0.80,Logistic + calibration,urgent_rate,0.0,0.0,10
+cost_f0.75_r0.80,Proposed calibrated GB + optimizer,MEL,14.129856948820798,1.9232532844384593,10
+cost_f0.75_r0.80,Proposed calibrated GB + optimizer,regret,0.8806512737880221,0.2167023078625631,10
+cost_f0.75_r0.80,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+cost_f0.75_r0.80,Random forest + calibration,MEL,13.743003282727248,1.8984006118929995,10
+cost_f0.75_r0.80,Random forest + calibration,regret,0.49379760769446956,0.17399239844041936,10
+cost_f0.75_r0.80,Random forest + calibration,urgent_rate,0.0,0.0,10
+cost_f0.75_r1.00,Fixed rule heuristic,MEL,15.178740423040077,2.162761532746178,10
+cost_f0.75_r1.00,Fixed rule heuristic,regret,0.7716676050407483,0.26524427518612914,10
+cost_f0.75_r1.00,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f0.75_r1.00,Gradient boosting (uncalibrated),MEL,17.225849391368094,2.3974402996257007,10
+cost_f0.75_r1.00,Gradient boosting (uncalibrated),regret,2.818776573368765,0.6110921199499703,10
+cost_f0.75_r1.00,Gradient boosting (uncalibrated),urgent_rate,0.0,0.0,10
+cost_f0.75_r1.00,Gradient boosting + fixed thresholds,MEL,16.484036222857316,2.282241582101808,10
+cost_f0.75_r1.00,Gradient boosting + fixed thresholds,regret,2.076963404857988,0.5035599100936659,10
+cost_f0.75_r1.00,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f0.75_r1.00,Logistic + calibration,MEL,14.977126918275294,2.1865538838608125,10
+cost_f0.75_r1.00,Logistic + calibration,regret,0.5700541002759655,0.189718445477363,10
+cost_f0.75_r1.00,Logistic + calibration,urgent_rate,0.0,0.0,10
+cost_f0.75_r1.00,Proposed calibrated GB + optimizer,MEL,15.348457641001207,2.2271016695981096,10
+cost_f0.75_r1.00,Proposed calibrated GB + optimizer,regret,0.9413848230018781,0.21907617767879717,10
+cost_f0.75_r1.00,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+cost_f0.75_r1.00,Random forest + calibration,MEL,14.893822312570967,2.219474095456723,10
+cost_f0.75_r1.00,Random forest + calibration,regret,0.4867494945716375,0.18362459682395696,10
+cost_f0.75_r1.00,Random forest + calibration,urgent_rate,0.0,0.0,10
+cost_f0.75_r1.20,Fixed rule heuristic,MEL,16.312576940990954,2.4256004196176826,10
+cost_f0.75_r1.20,Fixed rule heuristic,regret,1.2876916764807842,0.2712191449412947,10
+cost_f0.75_r1.20,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f0.75_r1.20,Gradient boosting (uncalibrated),MEL,17.88690669280306,2.5919652731859255,10
+cost_f0.75_r1.20,Gradient boosting (uncalibrated),regret,2.86202142829289,0.6281032876362618,10
+cost_f0.75_r1.20,Gradient boosting (uncalibrated),urgent_rate,0.0005555555555555556,0.001249904736501024,10
+cost_f0.75_r1.20,Gradient boosting + fixed thresholds,MEL,17.68200693034185,2.58387556286275,10
+cost_f0.75_r1.20,Gradient boosting + fixed thresholds,regret,2.6571216658316827,0.5387470781656285,10
+cost_f0.75_r1.20,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f0.75_r1.20,Logistic + calibration,MEL,15.52403057577823,2.3181855764073522,10
+cost_f0.75_r1.20,Logistic + calibration,regret,0.49914531126806116,0.1470941133879582,10
+cost_f0.75_r1.20,Logistic + calibration,urgent_rate,0.0,0.0,10
+cost_f0.75_r1.20,Proposed calibrated GB + optimizer,MEL,15.888974341071124,2.4589692765482103,10
+cost_f0.75_r1.20,Proposed calibrated GB + optimizer,regret,0.864089076560956,0.23789633262562673,10
+cost_f0.75_r1.20,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+cost_f0.75_r1.20,Random forest + calibration,MEL,15.541637230903925,2.4036131944502857,10
+cost_f0.75_r1.20,Random forest + calibration,regret,0.5167519663937575,0.18886568655259528,10
+cost_f0.75_r1.20,Random forest + calibration,urgent_rate,0.0,0.0,10
+cost_f1.00_r0.80,Fixed rule heuristic,MEL,17.22388421913128,2.249236410688073,10
+cost_f1.00_r0.80,Fixed rule heuristic,regret,0.9474643831424607,0.23779902437871117,10
+cost_f1.00_r0.80,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f1.00_r0.80,Gradient boosting (uncalibrated),MEL,19.166240183712084,2.308197645433819,10
+cost_f1.00_r0.80,Gradient boosting (uncalibrated),regret,2.889820347723265,0.5689405189951028,10
+cost_f1.00_r0.80,Gradient boosting (uncalibrated),urgent_rate,0.0,0.0,10
+cost_f1.00_r0.80,Gradient boosting + fixed thresholds,MEL,18.069754020497044,2.217584959927374,10
+cost_f1.00_r0.80,Gradient boosting + fixed thresholds,regret,1.793334184508224,0.3325598397644748,10
+cost_f1.00_r0.80,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f1.00_r0.80,Logistic + calibration,MEL,17.01240121062752,2.1688684923506654,10
+cost_f1.00_r0.80,Logistic + calibration,regret,0.7359813746386988,0.2109846017647943,10
+cost_f1.00_r0.80,Logistic + calibration,urgent_rate,0.0,0.0,10
+cost_f1.00_r0.80,Proposed calibrated GB + optimizer,MEL,17.513000537754905,2.224042880266705,10
+cost_f1.00_r0.80,Proposed calibrated GB + optimizer,regret,1.2365807017660864,0.2730262870555591,10
+cost_f1.00_r0.80,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+cost_f1.00_r0.80,Random forest + calibration,MEL,16.985614023665626,2.2051013246374027,10
+cost_f1.00_r0.80,Random forest + calibration,regret,0.7091941876768069,0.24882554455667039,10
+cost_f1.00_r0.80,Random forest + calibration,urgent_rate,0.0,0.0,10
+cost_f1.00_r1.00,Fixed rule heuristic,MEL,18.735666243065783,2.5992964440109914,10
+cost_f1.00_r1.00,Fixed rule heuristic,regret,0.9196943950342747,0.32327026723111774,10
+cost_f1.00_r1.00,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f1.00_r1.00,Gradient boosting (uncalibrated),MEL,21.11480871981621,2.7462460917504155,10
+cost_f1.00_r1.00,Gradient boosting (uncalibrated),regret,3.2988368717847054,0.6145017508308287,10
+cost_f1.00_r1.00,Gradient boosting (uncalibrated),urgent_rate,0.004074074074074075,0.005843041761086041,10
+cost_f1.00_r1.00,Gradient boosting + fixed thresholds,MEL,19.66704829714309,2.623386272103972,10
+cost_f1.00_r1.00,Gradient boosting + fixed thresholds,regret,1.8510764491115825,0.4076838950872679,10
+cost_f1.00_r1.00,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f1.00_r1.00,Logistic + calibration,MEL,18.60280860166069,2.488630223740287,10
+cost_f1.00_r1.00,Logistic + calibration,regret,0.7868367536291867,0.24002312789214741,10
+cost_f1.00_r1.00,Logistic + calibration,urgent_rate,0.0,0.0,10
+cost_f1.00_r1.00,Proposed calibrated GB + optimizer,MEL,19.255304374630676,2.6479563108342337,10
+cost_f1.00_r1.00,Proposed calibrated GB + optimizer,regret,1.4393325265991694,0.32439293568298877,10
+cost_f1.00_r1.00,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+cost_f1.00_r1.00,Random forest + calibration,MEL,18.545089287998586,2.5645499965557588,10
+cost_f1.00_r1.00,Random forest + calibration,regret,0.7291174399670795,0.2355566101676732,10
+cost_f1.00_r1.00,Random forest + calibration,urgent_rate,0.0,0.0,10
+cost_f1.00_r1.20,Fixed rule heuristic,MEL,20.247448267000284,2.952539594586845,10
+cost_f1.00_r1.20,Fixed rule heuristic,regret,1.53906654401416,0.43400536224817965,10
+cost_f1.00_r1.20,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f1.00_r1.20,Gradient boosting (uncalibrated),MEL,22.33979877173369,3.0712389941243456,10
+cost_f1.00_r1.20,Gradient boosting (uncalibrated),regret,3.631417048747566,0.7118330057650855,10
+cost_f1.00_r1.20,Gradient boosting (uncalibrated),urgent_rate,0.01685185185185185,0.015331772648750193,10
+cost_f1.00_r1.20,Gradient boosting + fixed thresholds,MEL,21.264342573789136,3.0364391945655504,10
+cost_f1.00_r1.20,Gradient boosting + fixed thresholds,regret,2.5559608508030123,0.5306653826282525,10
+cost_f1.00_r1.20,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f1.00_r1.20,Logistic + calibration,MEL,19.455005944409187,2.692614249373908,10
+cost_f1.00_r1.20,Logistic + calibration,regret,0.7466242214230635,0.21052709659499,10
+cost_f1.00_r1.20,Logistic + calibration,urgent_rate,0.0003703703703703704,0.001171213948210511,10
+cost_f1.00_r1.20,Proposed calibrated GB + optimizer,MEL,20.11630507907528,2.888598173326336,10
+cost_f1.00_r1.20,Proposed calibrated GB + optimizer,regret,1.407923356089155,0.3943660612253505,10
+cost_f1.00_r1.20,Proposed calibrated GB + optimizer,urgent_rate,0.0001851851851851852,0.0005856069741052555,10
+cost_f1.00_r1.20,Random forest + calibration,MEL,19.379760361843562,2.7731807126435255,10
+cost_f1.00_r1.20,Random forest + calibration,regret,0.6713786388574414,0.21628725118252082,10
+cost_f1.00_r1.20,Random forest + calibration,urgent_rate,0.0001851851851851852,0.0005856069741052555,10
+cost_f1.25_r0.80,Fixed rule heuristic,MEL,20.402864533173357,2.610650641300881,10
+cost_f1.25_r0.80,Fixed rule heuristic,regret,1.459945315361367,0.3265342891798585,10
+cost_f1.25_r0.80,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f1.25_r0.80,Gradient boosting (uncalibrated),MEL,22.108554021096403,2.613140543970185,10
+cost_f1.25_r0.80,Gradient boosting (uncalibrated),regret,3.1656348032844144,0.5367008797733043,10
+cost_f1.25_r0.80,Gradient boosting (uncalibrated),urgent_rate,0.004074074074074075,0.005843041761086041,10
+cost_f1.25_r0.80,Gradient boosting + fixed thresholds,MEL,20.853442525621304,2.4723873086472556,10
+cost_f1.25_r0.80,Gradient boosting + fixed thresholds,regret,1.9105233078093113,0.2957381296824614,10
+cost_f1.25_r0.80,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f1.25_r0.80,Logistic + calibration,MEL,19.83937928534942,2.3754578138473583,10
+cost_f1.25_r0.80,Logistic + calibration,regret,0.8964600675374301,0.21592893580342848,10
+cost_f1.25_r0.80,Logistic + calibration,urgent_rate,0.0,0.0,10
+cost_f1.25_r0.80,Proposed calibrated GB + optimizer,MEL,20.519926724218628,2.4859636508321734,10
+cost_f1.25_r0.80,Proposed calibrated GB + optimizer,regret,1.577007506406639,0.3241606708977325,10
+cost_f1.25_r0.80,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+cost_f1.25_r0.80,Random forest + calibration,MEL,19.81010342458779,2.463236669364696,10
+cost_f1.25_r0.80,Random forest + calibration,regret,0.8671842067758003,0.25515034886633897,10
+cost_f1.25_r0.80,Random forest + calibration,urgent_rate,0.0,0.0,10
+cost_f1.25_r1.00,Fixed rule heuristic,MEL,22.292592063091487,3.048945615306922,10
+cost_f1.25_r1.00,Fixed rule heuristic,regret,1.451433822790489,0.5011508356095906,10
+cost_f1.25_r1.00,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f1.25_r1.00,Gradient boosting (uncalibrated),MEL,24.681698874541418,3.088429262274655,10
+cost_f1.25_r1.00,Gradient boosting (uncalibrated),regret,3.84054063424042,0.7883899111173112,10
+cost_f1.25_r1.00,Gradient boosting (uncalibrated),urgent_rate,0.02388888888888889,0.01671118881866181,10
+cost_f1.25_r1.00,Gradient boosting + fixed thresholds,MEL,22.85006037142886,2.9879041583776673,10
+cost_f1.25_r1.00,Gradient boosting + fixed thresholds,regret,2.008902131127864,0.4915167878740905,10
+cost_f1.25_r1.00,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f1.25_r1.00,Logistic + calibration,MEL,21.82462764049238,2.7346362861821967,10
+cost_f1.25_r1.00,Logistic + calibration,regret,0.9834694001913832,0.2127088749929409,10
+cost_f1.25_r1.00,Logistic + calibration,urgent_rate,0.0009259259259259259,0.002928034870526277,10
+cost_f1.25_r1.00,Proposed calibrated GB + optimizer,MEL,22.65142076145498,2.9365684579122284,10
+cost_f1.25_r1.00,Proposed calibrated GB + optimizer,regret,1.810262521153981,0.4110826234338442,10
+cost_f1.25_r1.00,Proposed calibrated GB + optimizer,urgent_rate,0.0005555555555555556,0.001249904736501024,10
+cost_f1.25_r1.00,Random forest + calibration,MEL,21.698666554208877,2.7783314157968477,10
+cost_f1.25_r1.00,Random forest + calibration,regret,0.8575083139078806,0.222468163540856,10
+cost_f1.25_r1.00,Random forest + calibration,urgent_rate,0.0007407407407407408,0.0017890588575542516,10
+cost_f1.25_r1.20,Fixed rule heuristic,MEL,24.182319593009613,3.491266186636065,10
+cost_f1.25_r1.20,Fixed rule heuristic,regret,2.2039894115697694,0.7240771264349413,10
+cost_f1.25_r1.20,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+cost_f1.25_r1.20,Gradient boosting (uncalibrated),MEL,26.451686164878318,3.5113380998987997,10
+cost_f1.25_r1.20,Gradient boosting (uncalibrated),regret,4.473355983438472,0.9944778366529596,10
+cost_f1.25_r1.20,Gradient boosting (uncalibrated),urgent_rate,0.059444444444444446,0.020313238250568424,10
+cost_f1.25_r1.20,Gradient boosting + fixed thresholds,MEL,24.84667821723642,3.5108089392975717,10
+cost_f1.25_r1.20,Gradient boosting + fixed thresholds,regret,2.8683480357965756,0.7676807526784719,10
+cost_f1.25_r1.20,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+cost_f1.25_r1.20,Logistic + calibration,MEL,23.004584714118675,3.055427109802939,10
+cost_f1.25_r1.20,Logistic + calibration,regret,1.0262545326788333,0.28378153402024886,10
+cost_f1.25_r1.20,Logistic + calibration,urgent_rate,0.006111111111111111,0.008375521922511477,10
+cost_f1.25_r1.20,Proposed calibrated GB + optimizer,MEL,23.81812356967192,3.2618930083873128,10
+cost_f1.25_r1.20,Proposed calibrated GB + optimizer,regret,1.839793388232075,0.5055622585532791,10
+cost_f1.25_r1.20,Proposed calibrated GB + optimizer,urgent_rate,0.0029629629629629632,0.0035136418446315328,10
+cost_f1.25_r1.20,Random forest + calibration,MEL,22.836245209491825,3.093306335242649,10
+cost_f1.25_r1.20,Random forest + calibration,regret,0.8579150280519812,0.32123772662270994,10
+cost_f1.25_r1.20,Random forest + calibration,urgent_rate,0.005185185185185186,0.005907894377286617,10
+high_wind_thermal_missing,Fixed rule heuristic,Brier,0.09910864149110553,0.0625930848491614,10
+high_wind_thermal_missing,Fixed rule heuristic,ECE10,0.08833802075009098,0.047243187470811784,10
+high_wind_thermal_missing,Fixed rule heuristic,MEL,19.14684170243919,5.384519055290357,10
+high_wind_thermal_missing,Fixed rule heuristic,PR_AUC,0.37635296951365554,0.2341319151430927,9
+high_wind_thermal_missing,Fixed rule heuristic,failure_prevalence,0.11873861160625868,0.07713163138142079,10
+high_wind_thermal_missing,Fixed rule heuristic,high_risk_recall,0.5583333333333333,0.27230724295894376,10
+high_wind_thermal_missing,Fixed rule heuristic,n,30.3,2.7100635498903802,10
+high_wind_thermal_missing,Fixed rule heuristic,regret,1.9892108464017473,1.5218386352309525,10
+high_wind_thermal_missing,Fixed rule heuristic,urgent_rate,0.0,0.0,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),Brier,0.14027638055119632,0.04327296476353592,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),ECE10,0.20118972015413697,0.04456566558640503,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),MEL,21.782377475462084,4.2370466071603365,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),PR_AUC,0.2952517079117414,0.1902740948451539,9
+high_wind_thermal_missing,Gradient boosting (uncalibrated),failure_prevalence,0.11873861160625868,0.07713163138142079,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),high_risk_recall,0.5083333333333333,0.25291510311311194,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),n,30.3,2.7100635498903802,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),regret,4.624746619424645,1.2649771056246133,10
+high_wind_thermal_missing,Gradient boosting (uncalibrated),urgent_rate,0.0,0.0,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,Brier,0.10269265139391144,0.05090348405741933,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,ECE10,0.09772087900791002,0.017208984800126902,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,MEL,19.89022742184727,4.980585535090767,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,PR_AUC,0.2952517079117414,0.1902740948451539,9
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,failure_prevalence,0.11873861160625868,0.07713163138142079,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,high_risk_recall,0.5083333333333333,0.25291510311311194,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,n,30.3,2.7100635498903802,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,regret,2.7325965658098306,1.2430292953171636,10
+high_wind_thermal_missing,Gradient boosting + fixed thresholds,urgent_rate,0.003125,0.009882117688026186,10
+high_wind_thermal_missing,Logistic + calibration,Brier,0.0980302808481496,0.053488417134516734,10
+high_wind_thermal_missing,Logistic + calibration,ECE10,0.09560363058861734,0.033920805193306404,10
+high_wind_thermal_missing,Logistic + calibration,MEL,18.516284331980025,4.607312952217219,10
+high_wind_thermal_missing,Logistic + calibration,PR_AUC,0.37182046344122693,0.2149608772747041,9
+high_wind_thermal_missing,Logistic + calibration,failure_prevalence,0.11873861160625868,0.07713163138142079,10
+high_wind_thermal_missing,Logistic + calibration,high_risk_recall,0.6333333333333333,0.24907235301622108,10
+high_wind_thermal_missing,Logistic + calibration,n,30.3,2.7100635498903802,10
+high_wind_thermal_missing,Logistic + calibration,regret,1.3586534759425817,0.9087655184879213,10
+high_wind_thermal_missing,Logistic + calibration,urgent_rate,0.0,0.0,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,Brier,0.10269265139391144,0.05090348405741933,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,ECE10,0.09772087900791002,0.017208984800126902,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,MEL,19.581479997089016,4.910810138795078,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,PR_AUC,0.2952517079117414,0.1902740948451539,9
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,failure_prevalence,0.11873861160625868,0.07713163138142079,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,high_risk_recall,0.5083333333333333,0.25291510311311194,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,n,30.3,2.7100635498903802,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,regret,2.423849141051576,1.393545111647589,10
+high_wind_thermal_missing,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+high_wind_thermal_missing,Random forest + calibration,Brier,0.10128695590657581,0.056923060705458314,10
+high_wind_thermal_missing,Random forest + calibration,ECE10,0.10122223040195824,0.043513369615534925,10
+high_wind_thermal_missing,Random forest + calibration,MEL,18.79631493679884,4.530730173495858,10
+high_wind_thermal_missing,Random forest + calibration,PR_AUC,0.3239875524238726,0.1836727728869198,9
+high_wind_thermal_missing,Random forest + calibration,failure_prevalence,0.11873861160625868,0.07713163138142079,10
+high_wind_thermal_missing,Random forest + calibration,high_risk_recall,0.5083333333333333,0.22377926734580925,10
+high_wind_thermal_missing,Random forest + calibration,n,30.3,2.7100635498903802,10
+high_wind_thermal_missing,Random forest + calibration,regret,1.638684080761399,0.9208631981016231,10
+high_wind_thermal_missing,Random forest + calibration,urgent_rate,0.0,0.0,10
+lowest_quality_quintile,Fixed rule heuristic,Brier,0.1158761840952887,0.029428734031223917,10
+lowest_quality_quintile,Fixed rule heuristic,ECE10,0.07038055692025033,0.0377416020796183,10
+lowest_quality_quintile,Fixed rule heuristic,MEL,19.30182442289156,3.671460373350818,10
+lowest_quality_quintile,Fixed rule heuristic,PR_AUC,0.44577943098376815,0.20132199318236169,10
+lowest_quality_quintile,Fixed rule heuristic,failure_prevalence,0.15555555555555556,0.0429445114343854,10
+lowest_quality_quintile,Fixed rule heuristic,high_risk_recall,0.6636363636363637,0.13585764709975695,10
+lowest_quality_quintile,Fixed rule heuristic,n,108.0,0.0,10
+lowest_quality_quintile,Fixed rule heuristic,regret,1.399572740597752,0.6031593140319075,10
+lowest_quality_quintile,Fixed rule heuristic,urgent_rate,0.010185185185185184,0.014110036358842544,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),Brier,0.1461635959099841,0.028078086865777827,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),ECE10,0.12322531020269853,0.03840407973442483,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),MEL,21.525033228077366,3.58691006441061,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),PR_AUC,0.363958468078525,0.1617094611639473,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),failure_prevalence,0.15555555555555556,0.0429445114343854,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),high_risk_recall,0.5636363636363637,0.09389050536260404,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),n,108.0,0.0,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),regret,3.6227815457835577,0.6216679157186333,10
+lowest_quality_quintile,Gradient boosting (uncalibrated),urgent_rate,0.0018518518518518517,0.003904046494035036,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,Brier,0.11954938099794746,0.02418578330365864,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,ECE10,0.05379557604720937,0.015374605168046299,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,MEL,20.257014210434136,3.723318565397983,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,PR_AUC,0.363958468078525,0.1617094611639473,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,failure_prevalence,0.15555555555555556,0.0429445114343854,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,high_risk_recall,0.5636363636363637,0.09389050536260404,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,n,108.0,0.0,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,regret,2.354762528140328,0.7396076256503781,10
+lowest_quality_quintile,Gradient boosting + fixed thresholds,urgent_rate,0.016666666666666666,0.016791938899673387,10
+lowest_quality_quintile,Logistic + calibration,Brier,0.11164854670934987,0.025789858382670085,10
+lowest_quality_quintile,Logistic + calibration,ECE10,0.05785010375401265,0.023472533764550454,10
+lowest_quality_quintile,Logistic + calibration,MEL,18.98148466514305,3.4554776578234847,10
+lowest_quality_quintile,Logistic + calibration,PR_AUC,0.4493026692580723,0.18951593495596017,10
+lowest_quality_quintile,Logistic + calibration,failure_prevalence,0.15555555555555556,0.0429445114343854,10
+lowest_quality_quintile,Logistic + calibration,high_risk_recall,0.7090909090909091,0.12712834523274566,10
+lowest_quality_quintile,Logistic + calibration,n,108.0,0.0,10
+lowest_quality_quintile,Logistic + calibration,regret,1.079232982849239,0.4376310327421955,10
+lowest_quality_quintile,Logistic + calibration,urgent_rate,0.0,0.0,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,Brier,0.11954938099794746,0.02418578330365864,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,ECE10,0.05379557604720937,0.015374605168046299,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,MEL,19.69487585591444,3.6085705701518522,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,PR_AUC,0.363958468078525,0.1617094611639473,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,failure_prevalence,0.15555555555555556,0.0429445114343854,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,high_risk_recall,0.5636363636363637,0.09389050536260404,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,n,108.0,0.0,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,regret,1.7926241736206319,0.6343529562616953,10
+lowest_quality_quintile,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+lowest_quality_quintile,Random forest + calibration,Brier,0.11281139964077609,0.02553825738150574,10
+lowest_quality_quintile,Random forest + calibration,ECE10,0.049781302253892504,0.020078342611889843,10
+lowest_quality_quintile,Random forest + calibration,MEL,18.985980720702962,3.4442276685289253,10
+lowest_quality_quintile,Random forest + calibration,PR_AUC,0.4480287557476356,0.17613542016344988,10
+lowest_quality_quintile,Random forest + calibration,failure_prevalence,0.15555555555555556,0.0429445114343854,10
+lowest_quality_quintile,Random forest + calibration,high_risk_recall,0.6272727272727272,0.1245745744914816,10
+lowest_quality_quintile,Random forest + calibration,n,108.0,0.0,10
+lowest_quality_quintile,Random forest + calibration,regret,1.0837290384091565,0.4220591300784594,10
+lowest_quality_quintile,Random forest + calibration,urgent_rate,0.0,0.0,10
+main,Fixed rule heuristic,Brier,0.10277548513519541,0.011405050207503915,10
+main,Fixed rule heuristic,ECE10,0.03847287986789023,0.010917545132945064,10
+main,Fixed rule heuristic,MEL,18.735666243065783,2.5992964440109914,10
+main,Fixed rule heuristic,PR_AUC,0.4493109832682377,0.08347648688277262,10
+main,Fixed rule heuristic,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+main,Fixed rule heuristic,high_risk_recall,0.7444444444444445,0.07499428419006146,10
+main,Fixed rule heuristic,n,540.0,0.0,10
+main,Fixed rule heuristic,regret,0.9196943950342747,0.32327026723111774,10
+main,Fixed rule heuristic,urgent_rate,0.015185185185185185,0.013233508341591716,10
+main,Gradient boosting (uncalibrated),Brier,0.13245605936715008,0.011685558791074645,10
+main,Gradient boosting (uncalibrated),ECE10,0.11979092933497779,0.018763911177806077,10
+main,Gradient boosting (uncalibrated),MEL,21.11480871981621,2.7462460917504155,10
+main,Gradient boosting (uncalibrated),PR_AUC,0.3959983870357293,0.09114039935757651,10
+main,Gradient boosting (uncalibrated),failure_prevalence,0.14333333333333334,0.01605413035192193,10
+main,Gradient boosting (uncalibrated),high_risk_recall,0.6055555555555555,0.06651216665210359,10
+main,Gradient boosting (uncalibrated),n,540.0,0.0,10
+main,Gradient boosting (uncalibrated),regret,3.2988368717847054,0.6145017508308287,10
+main,Gradient boosting (uncalibrated),urgent_rate,0.004074074074074075,0.005843041761086041,10
+main,Gradient boosting + fixed thresholds,Brier,0.10608845022719955,0.00931064060317689,10
+main,Gradient boosting + fixed thresholds,ECE10,0.03184115157357764,0.009915213237943928,10
+main,Gradient boosting + fixed thresholds,MEL,19.66704829714309,2.623386272103972,10
+main,Gradient boosting + fixed thresholds,PR_AUC,0.3959983870357293,0.09114039935757651,10
+main,Gradient boosting + fixed thresholds,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+main,Gradient boosting + fixed thresholds,high_risk_recall,0.6055555555555555,0.06651216665210359,10
+main,Gradient boosting + fixed thresholds,n,540.0,0.0,10
+main,Gradient boosting + fixed thresholds,regret,1.8510764491115825,0.4076838950872679,10
+main,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.014088415911192963,10
+main,Logistic + calibration,Brier,0.10207669353084081,0.010619740133627884,10
+main,Logistic + calibration,ECE10,0.03239609870286647,0.008594185525308886,10
+main,Logistic + calibration,MEL,18.60280860166069,2.488630223740287,10
+main,Logistic + calibration,PR_AUC,0.4339371263466526,0.08741322653606504,10
+main,Logistic + calibration,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+main,Logistic + calibration,high_risk_recall,0.7148148148148148,0.08650789156224618,10
+main,Logistic + calibration,n,540.0,0.0,10
+main,Logistic + calibration,regret,0.7868367536291867,0.24002312789214741,10
+main,Logistic + calibration,urgent_rate,0.0,0.0,10
+main,Proposed calibrated GB + optimizer,Brier,0.10608845022719955,0.00931064060317689,10
+main,Proposed calibrated GB + optimizer,ECE10,0.03184115157357764,0.009915213237943928,10
+main,Proposed calibrated GB + optimizer,MEL,19.255304374630676,2.6479563108342337,10
+main,Proposed calibrated GB + optimizer,PR_AUC,0.3959983870357293,0.09114039935757651,10
+main,Proposed calibrated GB + optimizer,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+main,Proposed calibrated GB + optimizer,high_risk_recall,0.6055555555555555,0.06651216665210359,10
+main,Proposed calibrated GB + optimizer,n,540.0,0.0,10
+main,Proposed calibrated GB + optimizer,regret,1.4393325265991694,0.32439293568298877,10
+main,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+main,Random forest + calibration,Brier,0.10183639319628372,0.009990782690553094,10
+main,Random forest + calibration,ECE10,0.03187333654318113,0.011374378617713916,10
+main,Random forest + calibration,MEL,18.545089287998586,2.5645499965557588,10
+main,Random forest + calibration,PR_AUC,0.43424054029547154,0.0797169269784528,10
+main,Random forest + calibration,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+main,Random forest + calibration,high_risk_recall,0.7092592592592593,0.08688148256914464,10
+main,Random forest + calibration,n,540.0,0.0,10
+main,Random forest + calibration,regret,0.7291174399670795,0.2355566101676732,10
+main,Random forest + calibration,urgent_rate,0.0,0.0,10
+sensor_stress,Fixed rule heuristic,Brier,0.10502691852960107,0.011195943778783052,10
+sensor_stress,Fixed rule heuristic,ECE10,0.0400855638082205,0.012295744262486422,10
+sensor_stress,Fixed rule heuristic,MEL,19.08510460682736,2.6571258490466465,10
+sensor_stress,Fixed rule heuristic,PR_AUC,0.42406232353990403,0.07832861020710666,10
+sensor_stress,Fixed rule heuristic,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+sensor_stress,Fixed rule heuristic,high_risk_recall,0.6574074074074074,0.06429835387654215,10
+sensor_stress,Fixed rule heuristic,n,540.0,0.0,10
+sensor_stress,Fixed rule heuristic,regret,1.2691327587958572,0.34537037880719124,10
+sensor_stress,Fixed rule heuristic,urgent_rate,0.013333333333333332,0.008409573514037729,10
+sensor_stress,Gradient boosting (uncalibrated),Brier,0.13943131959744023,0.0124113019663054,10
+sensor_stress,Gradient boosting (uncalibrated),ECE10,0.12786754479115883,0.018336818146959304,10
+sensor_stress,Gradient boosting (uncalibrated),MEL,21.51017987634712,2.6427464423527436,10
+sensor_stress,Gradient boosting (uncalibrated),PR_AUC,0.37142494816369165,0.08368623601369259,10
+sensor_stress,Gradient boosting (uncalibrated),failure_prevalence,0.14333333333333334,0.01605413035192193,10
+sensor_stress,Gradient boosting (uncalibrated),high_risk_recall,0.5722222222222222,0.07008279989869122,10
+sensor_stress,Gradient boosting (uncalibrated),n,540.0,0.0,10
+sensor_stress,Gradient boosting (uncalibrated),regret,3.694208028315613,0.6061671627068236,10
+sensor_stress,Gradient boosting (uncalibrated),urgent_rate,0.004814814814814815,0.00567095510017573,10
+sensor_stress,Gradient boosting + fixed thresholds,Brier,0.1091218637168196,0.008674769544792462,10
+sensor_stress,Gradient boosting + fixed thresholds,ECE10,0.03520320489171369,0.014880094253153743,10
+sensor_stress,Gradient boosting + fixed thresholds,MEL,20.030618527816635,2.5500052910991493,10
+sensor_stress,Gradient boosting + fixed thresholds,PR_AUC,0.37142494816369165,0.08368623601369259,10
+sensor_stress,Gradient boosting + fixed thresholds,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+sensor_stress,Gradient boosting + fixed thresholds,high_risk_recall,0.5722222222222222,0.07008279989869122,10
+sensor_stress,Gradient boosting + fixed thresholds,n,540.0,0.0,10
+sensor_stress,Gradient boosting + fixed thresholds,regret,2.21464667978513,0.425330693243214,10
+sensor_stress,Gradient boosting + fixed thresholds,urgent_rate,0.018333333333333333,0.016596789959991382,10
+sensor_stress,Logistic + calibration,Brier,0.10533677256096363,0.00932902909755924,10
+sensor_stress,Logistic + calibration,ECE10,0.03644716203867177,0.015552454307225102,10
+sensor_stress,Logistic + calibration,MEL,19.101457299918195,2.3594539239128274,10
+sensor_stress,Logistic + calibration,PR_AUC,0.4099901089954862,0.07937393297510355,10
+sensor_stress,Logistic + calibration,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+sensor_stress,Logistic + calibration,high_risk_recall,0.6277777777777778,0.07169534522584992,10
+sensor_stress,Logistic + calibration,n,540.0,0.0,10
+sensor_stress,Logistic + calibration,regret,1.285485451886689,0.40909531032080937,10
+sensor_stress,Logistic + calibration,urgent_rate,0.0,0.0,10
+sensor_stress,Proposed calibrated GB + optimizer,Brier,0.1091218637168196,0.008674769544792462,10
+sensor_stress,Proposed calibrated GB + optimizer,ECE10,0.03520320489171369,0.014880094253153743,10
+sensor_stress,Proposed calibrated GB + optimizer,MEL,19.561574422707185,2.528953353141277,10
+sensor_stress,Proposed calibrated GB + optimizer,PR_AUC,0.37142494816369165,0.08368623601369259,10
+sensor_stress,Proposed calibrated GB + optimizer,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+sensor_stress,Proposed calibrated GB + optimizer,high_risk_recall,0.5722222222222222,0.07008279989869122,10
+sensor_stress,Proposed calibrated GB + optimizer,n,540.0,0.0,10
+sensor_stress,Proposed calibrated GB + optimizer,regret,1.7456025746756765,0.28118214081719,10
+sensor_stress,Proposed calibrated GB + optimizer,urgent_rate,0.0,0.0,10
+sensor_stress,Random forest + calibration,Brier,0.10440748404884928,0.010248044184439725,10
+sensor_stress,Random forest + calibration,ECE10,0.03329716771850265,0.00900422915474769,10
+sensor_stress,Random forest + calibration,MEL,18.924663120039227,2.5084920675069404,10
+sensor_stress,Random forest + calibration,PR_AUC,0.40951911676032465,0.07601540595571088,10
+sensor_stress,Random forest + calibration,failure_prevalence,0.14333333333333334,0.01605413035192193,10
+sensor_stress,Random forest + calibration,high_risk_recall,0.625925925925926,0.08764562641629059,10
+sensor_stress,Random forest + calibration,n,540.0,0.0,10
+sensor_stress,Random forest + calibration,regret,1.1086912720077216,0.20809080391225793,10
+sensor_stress,Random forest + calibration,urgent_rate,0.0,0.0,10

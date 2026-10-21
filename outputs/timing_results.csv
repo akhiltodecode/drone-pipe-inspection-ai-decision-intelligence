@@ -1,0 +1,61 @@
+replicate,scenario,method,inference_ms_per_1000,note
+1,main,Fixed rule heuristic,7.919594443390249,environment-dependent; excluded from scientific checksums
+1,main,Logistic + calibration,8.364418513169598,environment-dependent; excluded from scientific checksums
+1,main,Random forest + calibration,41.52481851633638,environment-dependent; excluded from scientific checksums
+1,main,Gradient boosting (uncalibrated),33.74554074037372,environment-dependent; excluded from scientific checksums
+1,main,Gradient boosting + fixed thresholds,33.74554074037372,environment-dependent; excluded from scientific checksums
+1,main,Proposed calibrated GB + optimizer,33.74554074037372,environment-dependent; excluded from scientific checksums
+2,main,Fixed rule heuristic,5.320296292699856,environment-dependent; excluded from scientific checksums
+2,main,Logistic + calibration,6.250909259338018,environment-dependent; excluded from scientific checksums
+2,main,Random forest + calibration,36.10435555687959,environment-dependent; excluded from scientific checksums
+2,main,Gradient boosting (uncalibrated),16.33538333273329,environment-dependent; excluded from scientific checksums
+2,main,Gradient boosting + fixed thresholds,16.33538333273329,environment-dependent; excluded from scientific checksums
+2,main,Proposed calibrated GB + optimizer,16.33538333273329,environment-dependent; excluded from scientific checksums
+3,main,Fixed rule heuristic,5.8166962979292425,environment-dependent; excluded from scientific checksums
+3,main,Logistic + calibration,21.780214814902543,environment-dependent; excluded from scientific checksums
+3,main,Random forest + calibration,41.565768522020704,environment-dependent; excluded from scientific checksums
+3,main,Gradient boosting (uncalibrated),16.184124069695827,environment-dependent; excluded from scientific checksums
+3,main,Gradient boosting + fixed thresholds,16.184124069695827,environment-dependent; excluded from scientific checksums
+3,main,Proposed calibrated GB + optimizer,16.184124069695827,environment-dependent; excluded from scientific checksums
+4,main,Fixed rule heuristic,5.714044447005209,environment-dependent; excluded from scientific checksums
+4,main,Logistic + calibration,8.606144446174666,environment-dependent; excluded from scientific checksums
+4,main,Random forest + calibration,38.01126111082138,environment-dependent; excluded from scientific checksums
+4,main,Gradient boosting (uncalibrated),130.5199870397768,environment-dependent; excluded from scientific checksums
+4,main,Gradient boosting + fixed thresholds,130.5199870397768,environment-dependent; excluded from scientific checksums
+4,main,Proposed calibrated GB + optimizer,130.5199870397768,environment-dependent; excluded from scientific checksums
+5,main,Fixed rule heuristic,6.416242589087536,environment-dependent; excluded from scientific checksums
+5,main,Logistic + calibration,31.461707409040105,environment-dependent; excluded from scientific checksums
+5,main,Random forest + calibration,37.05883333437938,environment-dependent; excluded from scientific checksums
+5,main,Gradient boosting (uncalibrated),28.92526296852372,environment-dependent; excluded from scientific checksums
+5,main,Gradient boosting + fixed thresholds,28.92526296852372,environment-dependent; excluded from scientific checksums
+5,main,Proposed calibrated GB + optimizer,28.92526296852372,environment-dependent; excluded from scientific checksums
+6,main,Fixed rule heuristic,6.708118518064213,environment-dependent; excluded from scientific checksums
+6,main,Logistic + calibration,7.282409259695904,environment-dependent; excluded from scientific checksums
+6,main,Random forest + calibration,58.98320370626472,environment-dependent; excluded from scientific checksums
+6,main,Gradient boosting (uncalibrated),505.64340370463606,environment-dependent; excluded from scientific checksums
+6,main,Gradient boosting + fixed thresholds,505.64340370463606,environment-dependent; excluded from scientific checksums
+6,main,Proposed calibrated GB + optimizer,505.64340370463606,environment-dependent; excluded from scientific checksums
+7,main,Fixed rule heuristic,7.6023999941686204,environment-dependent; excluded from scientific checksums
+7,main,Logistic + calibration,8.328988891056119,environment-dependent; excluded from scientific checksums
+7,main,Random forest + calibration,49.994453702647995,environment-dependent; excluded from scientific checksums
+7,main,Gradient boosting (uncalibrated),205.76820741014131,environment-dependent; excluded from scientific checksums
+7,main,Gradient boosting + fixed thresholds,205.76820741014131,environment-dependent; excluded from scientific checksums
+7,main,Proposed calibrated GB + optimizer,205.76820741014131,environment-dependent; excluded from scientific checksums
+8,main,Fixed rule heuristic,14.286601846699206,environment-dependent; excluded from scientific checksums
+8,main,Logistic + calibration,18.013118521290988,environment-dependent; excluded from scientific checksums
+8,main,Random forest + calibration,87.29260555776784,environment-dependent; excluded from scientific checksums
+8,main,Gradient boosting (uncalibrated),71.02528703668483,environment-dependent; excluded from scientific checksums
+8,main,Gradient boosting + fixed thresholds,71.02528703668483,environment-dependent; excluded from scientific checksums
+8,main,Proposed calibrated GB + optimizer,71.02528703668483,environment-dependent; excluded from scientific checksums
+9,main,Fixed rule heuristic,5.7443407395449295,environment-dependent; excluded from scientific checksums
+9,main,Logistic + calibration,7.112933329793763,environment-dependent; excluded from scientific checksums
+9,main,Random forest + calibration,46.23661295934451,environment-dependent; excluded from scientific checksums
+9,main,Gradient boosting (uncalibrated),18.44480925851881,environment-dependent; excluded from scientific checksums
+9,main,Gradient boosting + fixed thresholds,18.44480925851881,environment-dependent; excluded from scientific checksums
+9,main,Proposed calibrated GB + optimizer,18.44480925851881,environment-dependent; excluded from scientific checksums
+10,main,Fixed rule heuristic,5.982122220976399,environment-dependent; excluded from scientific checksums
+10,main,Logistic + calibration,7.5841148120364075,environment-dependent; excluded from scientific checksums
+10,main,Random forest + calibration,41.97919814167243,environment-dependent; excluded from scientific checksums
+10,main,Gradient boosting (uncalibrated),132.550088885721,environment-dependent; excluded from scientific checksums
+10,main,Gradient boosting + fixed thresholds,132.550088885721,environment-dependent; excluded from scientific checksums
+10,main,Proposed calibrated GB + optimizer,132.550088885721,environment-dependent; excluded from scientific checksums
